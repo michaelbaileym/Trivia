@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="mainTextStyle">
+        <item name="android:layout_width">47dp</item>
+        <item name="android:layout_height">28dp</item>
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:fontFamily">@font/roboto_medium</item>
+    </style>
+</resources>
